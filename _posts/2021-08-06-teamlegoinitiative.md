@@ -45,7 +45,7 @@ What are the basics and what we were looking for? We expected that good entry le
 
 We decided that our online test would contain both multiple choice questions and programming exercises, with 40% of the score derived from the multiple choice questions and 60% of the score derived from the programming exercises.
 
-We wanted to ensure that the online test was neither too difficult nor too hard. We needed to have enough questions that we could weed out candidates that did not have a good grasp of the fundamentals. We also needed to allow candidates a fair chance of scoring well enough to pass the 65% base score - on the other hand we also required that it would not be easy to ace the test.
+We wanted to ensure that the online test was neither too easy nor too hard. We needed to have enough questions that we could weed out candidates that did not have a good grasp of the fundamentals. We also needed to allow candidates a fair chance of scoring well enough to pass the 65% base score - on the other hand we also required that it would not be easy to ace the test.
 
 We ended up creating 12 multiple choice questions and 3 programming exercises of varying difficulty. Two programming exercises were in Java and one programming exercise could be solved in a number of different languages. Although the online test platform we selected allowed us to prevent candidates from browsing online resources for the duration of the test, we did not use that option because we did not require candidates to have things like language syntax memorized, just as we do not. The real difficulty of the online test was that it would have to be completed within 90 minutes. This proved to be a good test of the time management skills of candidates.
 
