@@ -6,7 +6,7 @@ excerpt: "This post provides some numbers, looks into some of the online test qu
 cover-img: /assets/img/posts/20210806-team-lego-initiative/team-lego.png
 show-avatar: true
 category: "Team Lego"
-author-name: "Nikos Bitounis"
+author-name: "Nick Bitounis"
 author-avatar: "/assets/img/authors/nb.jpeg"
 tags: [Team Lego]
 
