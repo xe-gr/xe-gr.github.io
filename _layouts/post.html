@@ -41,6 +41,16 @@ layout: base
 
       <article role="main" class="blog-post">
         {{ content }}
+
+        <p class="author">
+          <div class="author-avatar">
+            <img src="{{ page.author-avatar }}" style="width:100px; border-radius: 50%;"/>
+          </div>
+
+          <div class="author-name" style="font-size: 80%; padding-top: 20px; font-weight: bold;">
+            Author: {{ page.author-name }}
+          </div>
+        </p>
       </article>
 
       {% if page.tags.size > 0 %}
@@ -77,6 +87,6 @@ layout: base
         {% endif %}
       </ul>
       {% include comments.html %}
-    </div>
+    </>
   </div>
 </div>

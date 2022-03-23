@@ -6,6 +6,8 @@ excerpt: "This post provides some numbers, looks into some of the online test qu
 cover-img: /assets/img/posts/20210806-team-lego-initiative/team-lego.png
 show-avatar: true
 category: "Team Lego"
+author-name: "Nick Bitounis"
+author-avatar: "/assets/img/authors/nb.jpeg"
 tags: [Team Lego]
 
 # ---- Theme based optional vars ---- #
@@ -121,8 +123,3 @@ It may not be obvious, but running the Team Lego initiative was an exercise that
 It turned out that our fears were unfounded and that we were lucky enough to find many people that have great potential. Now the difficult task of onboarding them to our team and mentoring them is ahead of us but with explicit and clear management buy-in we are looking forward to doing this. We are doubtlessly going to make mistakes and we’ll have to correct them. We will surely have a busy time to successfully expand the engineering team so quickly. And we will definitely need to expand teams other than engineering as well, something that will become evident once our new colleagues start making contributions to the production code and the engineering team throughput starts growing noticeably. 
 
 Regardless of the effort that we’ll need to devote to ensure that our new colleagues become productive as quickly as humanly possible, we were encouraged by the fact that we met so many young people with great potential. We expect that, all things being equal, we will be running the Team Lego initiative again in 2022.
-
-<img src="/assets/img/authors/nb.jpeg" style="width:100px;"/>
-
-__Author: Nick Bitounis__
-{: style="font-size: 80%; text-align: left;"}

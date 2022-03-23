@@ -11,3 +11,8 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+
+# Ignore Intellij output and settings
+/out/*
+/.idea/*
+*.iml
